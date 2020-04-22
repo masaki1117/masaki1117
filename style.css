@@ -677,7 +677,9 @@ body {
     max-width: 100%;
 }
 
-
+.gnav li {
+	display: none;
+}
 
 .gnav h1 {
     margin: 0 auto;
