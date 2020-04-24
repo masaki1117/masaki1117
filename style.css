@@ -751,5 +751,9 @@ body {
     font-size: 1.5rem;
     width: 270px;
 }
+.work-img {
+    width 140px;
+    margin: 0 auto;
+}
 }
 /*--------------------------------------------*/
