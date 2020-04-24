@@ -754,6 +754,9 @@ body {
     font-size: 1.5rem;
     width: 270px;
 }
+.company-img p {
+    margin-bottom: 15px;
+}
 
 
 }
