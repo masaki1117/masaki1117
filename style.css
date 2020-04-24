@@ -712,6 +712,10 @@ body {
 .work {
     flex-direction: column;
 }
+	
+.work-button {
+	width: 120px;
+}	
 
 .work-content p {
 	text-align: center;
