@@ -446,6 +446,11 @@ text-align: left;
     -ms-transform: translate(-50%, -50%);
 }
 
+.company img:hover {
+  opacity: 0.8;
+  transition-duration: 0.3s;
+}
+
 .cb {
     clear: both;
 }
